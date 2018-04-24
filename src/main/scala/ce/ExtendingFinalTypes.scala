@@ -1,9 +1,6 @@
 package ce
 
-/**
-  *
-  */
-object ExtendingFinalTypes {
+object ExtendingFinalTypes extends App {
 
   trait HumanReadableString {
     def hr: String
